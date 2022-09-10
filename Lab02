@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T05:08:37.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Le_KHELih35sLMSxi4Ny" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T05:12:27.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zHdoF6VzbhPi3Kbou4Is" version="20.3.0" type="github">
   <diagram id="labrJ63BYmAsmZNLYaFa" name="Página-1">
-    <mxGraphModel dx="1920" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,6 +497,15 @@
         </mxCell>
         <mxCell id="WddwwjvuTUoCwDWSlree-140" value="billNumber" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520.11" y="845" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WddwwjvuTUoCwDWSlree-145" value="&lt;span style=&quot;text-align: left;&quot;&gt;idClient from the&amp;nbsp;&lt;/span&gt;ProductXClient&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;table references&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;idClient&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;from the Client table.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1100" width="142.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WddwwjvuTUoCwDWSlree-146" value="&lt;span style=&quot;text-align: left;&quot;&gt;idClient&amp;nbsp; from the Client table references idPerson from the People table.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1020" width="105" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="WddwwjvuTUoCwDWSlree-147" value="&lt;span style=&quot;text-align: left;&quot;&gt;idProduct from the&amp;nbsp;&lt;/span&gt;ProductXClient&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;table references&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;idProduct&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;from the Product table.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.51" y="1100" width="142.51" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
